@@ -44,6 +44,3 @@ Every programmer knows your code doesn’t always go as planned, therefore in my
 * Created a CONSTANTS class: I realized there’s a need to share constants between the Main class and RenderUtils class. One way to do this is to put everything in the player class however it seems unintuitive to have constants such as the sound-files, and font-files in the player class, therefore I created a separate class called CONSTANTS.
 
 ## THE END
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
