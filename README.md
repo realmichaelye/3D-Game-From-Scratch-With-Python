@@ -1,6 +1,6 @@
 # 3D Space Shooter Game
 
-I was bored in my grade 11 compsci class, so instead of making a 2D game for my summative, I decided to learn Linear Algebra and 3D projection and made a 3D space shooter game with only numpy and pygame.
+I was bored in my grade 10 compsci class, so instead of making a 2D game for my summative, I decided to learn Linear Algebra and 3D projection and made a 3D space shooter game with only numpy and pygame.
 
 ## The Process of Making this Game(Written Report Part of Summative):
 
