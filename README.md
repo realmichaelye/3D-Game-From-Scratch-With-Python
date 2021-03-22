@@ -1,4 +1,4 @@
-# 3D Space Shooter Game
+# 3D Game From Scratch
 
 I was bored in my grade 10 compsci class, so instead of making a 2D game for my summative, I decided to learn Linear Algebra and 3D projection and made a 3D space shooter game with only numpy and pygame.
 
